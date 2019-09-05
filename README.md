@@ -37,3 +37,6 @@ $.ajax({
   }
 })
 </pre>
+
++ dataType: 'jsonp'
++ jsonpCallback: 'callback'
